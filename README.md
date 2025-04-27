@@ -4,9 +4,9 @@
 
 ### Programming Languages
 
-| C++ | C | JavaScript | Python | TypeScript |
+| C++ | C | C# | JavaScript | Python |
 | :-: | :-: | :-: | :-: | :-: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> |
 
 ### Front-End Development
 
@@ -16,15 +16,21 @@
 
 ### Back-End Development
 
-| Node.js | Express | Flask | Django |
-| :-: | :-: | :-: | :-: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40"/> |
+| Node.js | Express | Next.js |
+| :-: | :-: | :-: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> |
+
+### Databases
+
+| MySQL | MongoDB |
+| :-: | :-: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> |
 
 ---
 
 ## 🎓 Education
 
-![HCMUT Logo](link-to-bk-logo-image)  
+![HCMUT Logo](https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoatoi.png)  
 **Ho Chi Minh City University of Technology**  
 _Bachelor of Science in Computer Science_
 
@@ -32,7 +38,7 @@ _Bachelor of Science in Computer Science_
 
 ## 🔭 Featured Project
 
-- [Chill With Milu](https://chillwithmilu.netlify.app/) — A static website showcasing the “Chill With Milu” experience
+- [Chill With Milu](https://chillwithmilu.netlify.app/) — A chill music web app featuring curated playlists, soothing ambient tracks and relaxing visuals for the perfect listening experience
 
 ---
 
@@ -40,4 +46,3 @@ _Bachelor of Science in Computer Science_
 
 - ✉️ Email: luan.nguyensongminh@hcmut.edu.vn  
 - 🔗 LinkedIn: [Nguyen Luan](https://www.linkedin.com/in/nguyen-luan-10b670334/)  
-``
