@@ -8,7 +8,7 @@
 
 ## 🔭 Dự án nổi bật
 - [Game001](https://github.com/SongMinhLuan/Game001) — Dự án game demo bằng JavaScript
-- [MM241-Assignment](https://github.com/SongMinhLuan/MM241-Assignment) — Bài tập Mô hình Toán học (Python)
+- [ChillWithMilu](https://chillwithmilu.netlify.app/) — Web nghe nhạc phi lợi nhuận
 
 ## 💡 Kỹ năng
 - **Ngôn ngữ:** JavaScript, Python, C++  
