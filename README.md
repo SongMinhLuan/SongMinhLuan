@@ -1,16 +1,19 @@
-## Hi there 👋
+# Xin chào, mình là Nguyễn Song Minh Luân! 👋
 
-<!--
-**SongMinhLuan/SongMinhLuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badge đếm view -->
+![Profile Views](https://komarev.com/ghpvc/?username=SongMinhLuan)
 
-Here are some ideas to get you started:
+<!-- Badge top ngôn ngữ -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongMinhLuan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Dự án nổi bật
+- [Game001](https://github.com/SongMinhLuan/Game001) — Dự án game demo bằng JavaScript
+- [MM241-Assignment](https://github.com/SongMinhLuan/MM241-Assignment) — Bài tập Mô hình Toán học (Python)
+
+## 💡 Kỹ năng
+- **Ngôn ngữ:** JavaScript, Python, C++  
+- **Framework & Tools:** React, Flask, Git  
+
+## 📫 Liên hệ
+- ✉️ Email: luan.nguyensongminh@hcmut.edu.vn  
+- 🔗 LinkedIn: [Nguyễn Luan](https://www.linkedin.com/in/nguyen-luan-10b670334/)
